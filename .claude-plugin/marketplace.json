@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"小红书种草专家：卖点到爆款笔记一键生成（种草文案 / 封面图规范 / 广告法合规）","name":"lhg-xiaohongshu","source":"./"}]}
